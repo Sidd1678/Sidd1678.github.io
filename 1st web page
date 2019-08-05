@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+img {
+  display: block;
+  margin-left: 25%;
+  margin-right: auto;
+  width: 15%;
+}
+
+
+</style>
+  <title>SIDDHARTHA GAUTAM</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+   </head>
+<body style="background:gray;">
+<div class="jumbotron text-center"
+style="background:black;">
+  <h1 style="color:white;">My First Web page Page</h1>
+  <p style="color:white;">WELCOME TO MY WEBSITE</br>
+  SIDDHARTHA GAUTAM</br>
+  CONTACT: 7004918852:: MAIL: siddharthagautam1678@gmail.com</p> 
+ <address style="color:darkgray; text-align:right;"><h6>idgah road keshopur<br>
+  jamalpur:811214<br>
+  bihar</h6></address>
+</div>
+<b><hr align="center"   width="50%"></b>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-5">
+     <img src="siddpic1.jpg" class="mx-auto d-block" style="width:50%"> 
+    </div>
+	 <div class="col-sm-5">
+       <h5 style="color:honeydew;">I SIDDHARTHA GAUTAM currently studying in</br> NETAJIN SUBASH ENGINEERING COLLEGE</br>
+	   my department is INFORMATION TECHNOLOGY...</br>
+	   i am 2nd year student.. My intrest is in coding and web developement</br>
+	   </h5>
+    </div>
+	
+	</div>
+	</div>
+<pre>
+
+<hr align="center" color="black" width="50%">
+
+</pre>
+<center>
+<button type="button" class="btn btn-secondary"><p style="color:white;">
+<a href="https://drive.google.com/file/d/1-Lc4LNJh1OpWQCp_PbonFeunb4FUfrfH/view?usp=drivesdk"><h2>RESUME</h2></a></p>
+</button></center>
+<pre>
+
+</pre>
+<hr align="center"  width="50%">
+<div class="jumbotron text-left"
+style="background:black;">
+  <h1 style="color:white;">MY SKILLS ::</h1>
+  <pre>
+  
+  </pre>
+    <h3>C(PROGRAMMING LANGUAGE)</H3>
+ <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:90%">C(PROGRAMMING LANGUAGE)</div>
+  </div>  
+  <P> </P>
+  <h3>HTML</H3>
+  <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:80%">HTML</div>
+  </div>
+  <P> </P>
+  <h3>BOOTSTRAP-4</H3>
+ <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:60%">BOOTSTRAP-4</div>
+  </div>
+  <P> </P>
+  <h3>PYTHON</H3>
+ <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:60%">PYTHON</div>
+  </div>
+  <P> </P>
+  <h3>CSS</H3>
+ <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:40%">CSS</div>
+  </div>
+  <P> </P>
+  <h3>ADOBE PHOTOSHOP</H3>
+ <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width:30%">ADOBE PHOTOSHOP</div>
+  </div>
+</div>
+<hr align="center" color="white" width="50%">
+<h2 align="center">MY COLLEGE<H2>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+     <img src="nsec1.jpg" class="mx-auto d-block" style="width:100%"> 
+	  <h4>NSEC CAMPUS</H4>
+    </div><div class="col-sm-4">
+     <img src="nsec2.jpg" class="mx-auto d-block" style="width:100%"> 
+	  <h4>IT DEPERTMENT</H4>
+    </div>
+	<div class="col-sm-4">
+     <img src="nsec5.jpg" class="mx-auto d-block" style="width:100%"> 
+	 <h4>ITS IT DEPERTMENT(2018-2022)</h4>
+    </div>
+	</div>
+	</div>
+	<hr align="center"  width="50%">
+	
+	
+	
+	
+	
+</body>
+</html>
